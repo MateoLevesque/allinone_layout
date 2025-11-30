@@ -7,7 +7,7 @@ This layout is layer-based so to use the new characters you need to press `alt-g
 
 I use this layout on hyprland and didn't test it on other system. Also, all the letters are placed to satisfy my own likings. Feel free to adapt them to yours.
 
-TODO: Add image of the layout
+![layout visual](https://github.com/MateoLevesque/allinone_layout/blob/main/keyboard-layout.png?raw=true)
 
 # Installation
 
