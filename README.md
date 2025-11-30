@@ -34,3 +34,6 @@ input {
 }
 ```
 
+# Things to add
+I didn't took the time to add the French guillemets so I will add the later when they will be needed. If you want to add them just do a PR and I'll merge everything!
+ 
