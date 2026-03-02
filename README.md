@@ -1,15 +1,15 @@
-# Allinone keyboard layout.
+# Allinone keyboard layout
 
 This is a custom xkb layout based on the QWERTY US layout that includes easy access to French, German, Norwegian and Spanish characters.
 
-# The layout
+# The layout ⌨️
 This layout is layer-based so to use the new characters you need to press `alt-gr + e` for the symbol `é` for example.
 
 I use this layout on hyprland and didn't test it on other system. Also, all the letters are placed to satisfy my own likings. Feel free to adapt them to yours.
 
 ![layout visual](https://github.com/MateoLevesque/allinone_layout/blob/main/keyboard-layout.png?raw=true)
 
-# Installation
+# Installation ⬇️
 
 Clone the repository: 
 
@@ -17,7 +17,6 @@ Clone the repository:
 git clone https://github.com/MateoLevesque/allinone_layout.git
 cd allinone-layout
 ```
-
 
 Add the layout to your layout directory: 
 
@@ -34,6 +33,6 @@ input {
 }
 ```
 
-# Things to add
+# Things to add 💭
 I didn't took the time to add the French guillemets so I will add them later when they will be needed. If you want to add them just do a PR and I'll merge everything!
  
