@@ -15,7 +15,7 @@ Clone the repository:
 
 ```{bash}
 git clone https://github.com/MateoLevesque/allinone_layout.git
-cd allinone-layout
+cd allinone_layout
 ```
 
 Add the layout to your layout directory: 
